@@ -1,0 +1,7 @@
+{
+  "name": "aismallgames", // 日志提示 CI 期望的 Worker 名称，直接填这个，解决名称不匹配警告
+  "compatibility_date": "2025-11-22", // 用今天的日期（格式 YYYY-MM-DD，必须填）
+  "assets": {
+    "directory": "./dist" // 你要部署的静态资源目录（和部署命令一致）
+  }
+}
